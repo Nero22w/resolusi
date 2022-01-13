@@ -5,6 +5,7 @@ tidur
   ^vue
 makan
 tidur
+^reaxks
   ^lavarel
 makan
 tidur
