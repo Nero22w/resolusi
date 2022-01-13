@@ -4,10 +4,13 @@ makan
 tidur
   ^vue
 makan
+javasript
+^aasfasf
 tidur
 ^reaxks
   ^lavarel
 makan
+^lavarel
 tidur
 -python
 makan
