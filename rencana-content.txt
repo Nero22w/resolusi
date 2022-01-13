@@ -2,8 +2,12 @@ rencana kontenn saya
 tidur
 makan
 tidur
+  ^vue
 makan
 tidur
+^reaxks
+  ^lavarel
 makan
 tidur
+-python
 makan
